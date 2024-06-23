@@ -1,3 +1,5 @@
+# 项目效果
+![](https://github.com/nt47/react-jike/blob/master/%E5%B1%8F%E5%B9%95%E6%88%AA%E5%9B%BE%202024-06-23%20214954.png)
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
